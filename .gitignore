@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# PDFs are regenerated from DOCX — exclude to keep repo lightweight
+applications/**/*.pdf
+inventory/**/*.pdf
+
+# Temp generator inputs
+/tmp/
+
+# Temp files
+/tmp/
+*.swp
+*.pyc
+__pycache__/
