@@ -81,7 +81,6 @@ David was the TPM for EG's AI-powered destination image recognition and coverage
 
 ## Additional Projects
 
-Lesser in scope or predating Glean-era evidence — included for completeness and career arc context.
 
 ---
 
