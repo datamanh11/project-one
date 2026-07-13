@@ -4,6 +4,8 @@
 # PDFs are regenerated from DOCX — exclude to keep repo lightweight
 applications/**/*.pdf
 inventory/**/*.pdf
+# Exceptions: referral/submission PDFs that are canonical
+!inventory/resumes/Microsoft Referral David Manh Technical Program Manager Resume.pdf
 
 # Temp generator inputs
 /tmp/
